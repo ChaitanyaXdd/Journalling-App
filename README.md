@@ -5,7 +5,7 @@ A journaling application with sentiment analysis, authentication, and weather AP
 ## Features
 
 - **Journal Management**: Create, view, edit, and delete journal entries.
-- **Sentiment Analysis**: Analyze the sentiment of your journal entries (positive, neutral, or negative).
+- **Sentiment Analysis**: Analyze the sentiment of your journal entries (happy, neutral, or sad).
 - **User Authentication & Security**:
   - JWT-based authentication.
   - Spring Security 6 for secure access control.
